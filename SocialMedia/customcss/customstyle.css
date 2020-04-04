@@ -1,0 +1,55 @@
+body {
+  margin: 0px;
+  padding: 0px;
+}
+.extremely-font {
+  font-size: 70px;
+  font-weight: bolder; }
+
+.big-font {
+  font-size: 40px;
+  font-weight: bold; }
+
+.normal-bold-font {
+  font-size: 30px;
+  font-weight: bold; }
+
+.link-style {
+  text-decoration: none;
+  color: white; }
+  .link-style:hover {
+    text-decoration: none;
+    color: white; }
+
+.iconize {
+  color: white;
+  font-size: 20px; }
+  .iconize:hover {
+    color: black; }
+
+.icon {
+  color: black;
+  font-size: 30px;
+}
+
+.heart {
+  color: black;
+  font-size: 30px;}
+  .heart:hover {
+    color: red; }
+}
+
+
+.custom-card{
+  box-shadow: 0px 1px 3px 3px lightgrey;
+}
+.card-curve {
+  border-raduis: 7px; }
+
+.card-normal-curve {
+  border-radius: 10px; }
+
+.card-extreme-curve {
+  border-radius: 20px; }
+
+/*# sourceMappingURL=customstyle.css.map */
